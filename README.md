@@ -32,7 +32,7 @@
     與其他月份有明顯差別，推估投資客心理因素，認為日期較近市場的變化幅度較可預測，日期較遠變數較大則會處於觀望狀態。
     
     ![image](https://github.com/dian0624/TX_Crawl/blob/master/TX_image/1585124766466.jpg)
-    ![image](https://github.com/dian0624/TX_Crawl/blob/master/TX_image/1585124790739.jpg)
+    ![image](https://github.com/dian0624/TX_Crawl/blob/master/TX_image/1585205020225.jpg)
 
 
 
